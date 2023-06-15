@@ -1,2 +1,5 @@
 # rn-ai-challenge
+
 AI Challenge with React Native and ChatGPT
+
+Leader board completed in 2 hours 15 min
